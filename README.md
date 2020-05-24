@@ -1,3 +1,6 @@
+# angular 9 course
+https://www.udemy.com/course/the-complete-guide-to-angular-2/
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
